@@ -39,3 +39,13 @@ $$ A + B =
 4 + 12 & 5 + 13 & 6 + 14 \\
 \end{pmatrix}
 $$
+
+$$ A + B =
+\begin{pmatrix}
+10 & 12 & 14 \\
+16 & 18 & 20 \\
+\end{pmatrix}
+$$
+
+FIN 
+---
