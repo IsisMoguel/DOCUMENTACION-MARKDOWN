@@ -1,6 +1,6 @@
 # Tecnológico de Software
 ## Materia: Fundamentos de álgebra
-## Alumno: Tanjiro Jesús Hernández López
+## Alumno: Isis Alejandra Moguel Ramirez
 ## Actividad \#16 - Matrices doc
 
 ---
