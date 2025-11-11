@@ -16,6 +16,7 @@ $$ A =
 $$
 
 Matriz diagonal, porque todos los numeros fuera de la diagonal son ceros.
+
 $$ B =
 \begin{pmatrix}
 3 & 0 & 0 \\
@@ -25,6 +26,7 @@ $$ B =
 $$
 
 Matriz simetrica, ya que los numeros opuestos fuera de la diagonal principal son iguales.
+
 $$ C =
 \begin{pmatrix}
 2 & 1 & 4 \\
@@ -34,6 +36,7 @@ $$ C =
 $$
 
 Matriz triangular superior, debido a que respectoa a la diagonal la parte de abajo son solo ceros formando un triangulo en la parte superior.
+
 $$ D =
 \begin{pmatrix}
 1 & 2 & 3 \\
