@@ -15,35 +15,30 @@ $$ A =
 \end{pmatrix}
 $$
 
-MUESTRA
-
-Calcula la suma de A y B
-
-$$ A =
+Matriz diagonal, porque todos los numeros fuera de la diagonal son ceros.
+$$ B =
 \begin{pmatrix}
-1 & 2 & 3 \\
+3 & 0 & 0 \\
+0 & -2 & 0 \\
+0 & 0 & 5 \\
+\end{pmatrix}
+$$
+
+Matriz simetrica, ya que los numeros opuestos fuera de la diagonal principal son iguales.
+$$ C =
+\begin{pmatrix}
+2 & 1 & 4 \\
+1 & 3 & 5 \\
 4 & 5 & 6 \\
 \end{pmatrix}
 $$
 
-$$ B =
+Matriz triangular superior, debido a que respectoa a la diagonal la parte de abajo son solo ceros formando un triangulo en la parte superior.
+$$ D =
 \begin{pmatrix}
-9 & 10 & 11 \\
-12 & 13 & 14 \\
-\end{pmatrix}
-$$
-
-$$ A + B =
-\begin{pmatrix}
-1 + 9 & 2 + 10 & 3 + 11 \\
-4 + 12 & 5 + 13 & 6 + 14 \\
-\end{pmatrix}
-$$
-
-$$ A + B =
-\begin{pmatrix}
-10 & 12 & 14 \\
-16 & 18 & 20 \\
+1 & 2 & 3 \\
+0 & 4 & 5 \\
+0 & 0 & 6 \\
 \end{pmatrix}
 $$
 
