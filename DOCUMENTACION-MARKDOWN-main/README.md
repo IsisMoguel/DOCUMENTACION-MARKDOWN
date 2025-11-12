@@ -192,13 +192,95 @@ $$ AT =
 $$
 
 
+# EJERCICIO 3
+
+MULTIPLICACIÓN EN CADENA
+
+$$ A =
+\begin{pmatrix}
+1 & 2  \\
+3 & 4  \\
+\end{pmatrix}
+$$
+
+$$ B =
+\begin{pmatrix}
+2 & 0  \\
+1 & 3 \\
+\end{pmatrix}
+$$
+
+$$ C =
+\begin{pmatrix}
+1 & 1  \\
+0 & 2 \\
+\end{pmatrix}
+$$
+
+#### Calcula AB
+$$ AB =
+\begin{pmatrix}
+(1 * 2 + 2 * 1) (1 * 0 + 2 * 3)  \\
+(3 * 2 + 4 * 1) (3 * 0 + 4 * 3) \\
+\end{pmatrix}
+$$
+
+$$ AB =
+\begin{pmatrix}
+4 & 6 \\
+10 & 12 \\
+\end{pmatrix}
+$$
+
+#### Calcula AB(C)
+
+$$ (AB)C =
+\begin{pmatrix}
+(4 * 1 + 6 * 0) (4 * 1 + 6 * 2)  \\
+(10 * 1 + 12 * 0) (10 * 0 + 12 * 2) \\
+\end{pmatrix}
+$$
+
+$$ (AB)C =
+\begin{pmatrix}
+4 & 16 \\
+10 & 34 \\
+\end{pmatrix}
+$$
 
 
+#### Calcula BC
 
+$$ BC =
+\begin{pmatrix}
+(2 * 1 + 0 * 0) (2 * 1 + 0 * 2)  \\
+(10 * 1 + 3 * 0) (1 * 1 + 3 * 2) \\
+\end{pmatrix}
+$$
 
+$$ BC =
+\begin{pmatrix}
+2 & 2 \\
+1 & 7 \\
+\end{pmatrix}
+$$
 
+#### Calcula A(BC)
 
----
+$$ A(BC) =
+\begin{pmatrix}
+(1 * 2 + 2 * 1) (1 * 2 + 2 * 7)  \\
+(3 * 2 + 4 * 1) (3 * 2 + 4 * 7) \\
+\end{pmatrix}
+$$
+
+$$ A(BC) =
+\begin{pmatrix}
+4 & 16 \\
+10 & 34 \\
+\end{pmatrix}
+$$
+
 
 
 
