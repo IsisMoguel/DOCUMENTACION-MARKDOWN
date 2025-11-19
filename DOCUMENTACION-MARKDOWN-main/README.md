@@ -1,7 +1,7 @@
 # Tecnológico de Software
 ## Materia: Fundamentos de álgebra
 ## Alumno: Isis Alejandra Moguel Ramirez
-## Actividad \#16 - Matrices doc
+## Actividad \#18 - Documentación de ejerecicios con Git branch
 
 ---
 ### Identificación de matrices
